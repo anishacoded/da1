@@ -1,1 +1,1 @@
-This is a netflix data analysis (cleaning, preprocessing, and EDA project.
+This is a netflix movie data analysis project which has cleaning, preprocessing, and EDA on raw data to enable visualization.
